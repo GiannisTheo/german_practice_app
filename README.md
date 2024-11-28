@@ -1,1 +1,2 @@
-# german_practice_app
+# Germanp language practice LLM
+This is a small application utilizing Llama 3 70B model from meta and the Groq inference API. The purpose is to provide a chatbot for the user to practice the German language. A seperate model is being used with promt engineering to provide feedback about the users input and correct possible vocabulary or grammar mistakes.
